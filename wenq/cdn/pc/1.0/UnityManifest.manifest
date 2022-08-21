@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 4142254602
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets/res/config/config.bundle
+      Dependencies: {}
+    Info_1:
+      Name: assets/res/prefabs.bundle
+      Dependencies:
+        Dependency_0: assets/res/textures/main.bundle
+    Info_2:
+      Name: assets/res/ui.bundle
+      Dependencies: {}
+    Info_3:
+      Name: assets/res/sounds/main.bundle
+      Dependencies: {}
+    Info_4:
+      Name: assets/res/hotfix/boot_hotfix.bundle
+      Dependencies: {}
+    Info_5:
+      Name: assets/res/hotfix/common.bundle
+      Dependencies: {}
+    Info_6:
+      Name: assets/res/font.bundle
+      Dependencies: {}
+    Info_7:
+      Name: assets/res/textures/main.bundle
+      Dependencies: {}
+    Info_8:
+      Name: assets/res/textures/soundcategoryicon.bundle
+      Dependencies: {}
