@@ -2,12 +2,12 @@
     "Summary": {
         "YooVersion": "1.2.1",
         "UnityVersion": "2020.3.33f1c2",
-        "BuildDate": "2022/8/22 2:24:20",
-        "BuildSeconds": 20,
+        "BuildDate": "2022/8/22 2:31:54",
+        "BuildSeconds": 19,
         "BuildTarget": 19,
         "BuildPipeline": 0,
         "BuildMode": 0,
-        "BuildVersion": 86,
+        "BuildVersion": 87,
         "BuildinTags": "hotFix",
         "EnableAddressable": false,
         "AppendFileExtension": false,
@@ -21,7 +21,7 @@
         "AssetFileTotalCount": 83,
         "MainAssetTotalCount": 82,
         "AllBundleTotalCount": 9,
-        "AllBundleTotalSize": 30875097,
+        "AllBundleTotalSize": 30875151,
         "BuildinBundleTotalCount": 2,
         "BuildinBundleTotalSize": 2194179,
         "EncryptedBundleTotalCount": 0,
@@ -94,7 +94,7 @@
                 "ui"
             ],
             "MainBundleName": "assets/res/ui.bundle",
-            "MainBundleSize": 19131,
+            "MainBundleSize": 19185,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -106,7 +106,7 @@
                 "ui"
             ],
             "MainBundleName": "assets/res/ui.bundle",
-            "MainBundleSize": 19131,
+            "MainBundleSize": 19185,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -118,7 +118,7 @@
                 "ui"
             ],
             "MainBundleName": "assets/res/ui.bundle",
-            "MainBundleSize": 19131,
+            "MainBundleSize": 19185,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -130,7 +130,7 @@
                 "ui"
             ],
             "MainBundleName": "assets/res/ui.bundle",
-            "MainBundleSize": 19131,
+            "MainBundleSize": 19185,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -1094,8 +1094,8 @@
         },
         {
             "BundleName": "assets/res/prefabs.bundle",
-            "Hash": "48d8520e8a26b11f6e088314c6c38c3a",
-            "CRC": "a60d6567",
+            "Hash": "6554af5e850ee45ff28fda212286ff8b",
+            "CRC": "dbb7ce8a",
             "SizeBytes": 7435,
             "Tags": [
                 "prefab"
@@ -1104,9 +1104,9 @@
         },
         {
             "BundleName": "assets/res/ui.bundle",
-            "Hash": "801d9e02414414cceaa4557eb7125ed1",
-            "CRC": "da83b6f3",
-            "SizeBytes": 19131,
+            "Hash": "7a4a01f475808781040cb529009af353",
+            "CRC": "bf0f7f31",
+            "SizeBytes": 19185,
             "Tags": [
                 "ui"
             ],
