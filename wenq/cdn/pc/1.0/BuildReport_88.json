@@ -2,12 +2,12 @@
     "Summary": {
         "YooVersion": "1.2.1",
         "UnityVersion": "2020.3.33f1c2",
-        "BuildDate": "2022/8/22 2:31:54",
-        "BuildSeconds": 19,
+        "BuildDate": "2022/8/22 2:36:44",
+        "BuildSeconds": 18,
         "BuildTarget": 19,
         "BuildPipeline": 0,
         "BuildMode": 0,
-        "BuildVersion": 87,
+        "BuildVersion": 88,
         "BuildinTags": "hotFix",
         "EnableAddressable": false,
         "AppendFileExtension": false,
@@ -1094,8 +1094,8 @@
         },
         {
             "BundleName": "assets/res/prefabs.bundle",
-            "Hash": "6554af5e850ee45ff28fda212286ff8b",
-            "CRC": "dbb7ce8a",
+            "Hash": "e32478fb33eba2a6745b7fece7f0ba96",
+            "CRC": "76da201a",
             "SizeBytes": 7435,
             "Tags": [
                 "prefab"
