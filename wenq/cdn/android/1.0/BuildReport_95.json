@@ -2,12 +2,12 @@
     "Summary": {
         "YooVersion": "1.2.1",
         "UnityVersion": "2020.3.33f1c2",
-        "BuildDate": "2022/9/5 2:43:49",
-        "BuildSeconds": 24,
+        "BuildDate": "2022/9/5 3:02:03",
+        "BuildSeconds": 26,
         "BuildTarget": 13,
         "BuildPipeline": 0,
         "BuildMode": 0,
-        "BuildVersion": 94,
+        "BuildVersion": 95,
         "BuildinTags": "hotFix",
         "EnableAddressable": false,
         "AppendFileExtension": false,
@@ -21,9 +21,9 @@
         "AssetFileTotalCount": 83,
         "MainAssetTotalCount": 82,
         "AllBundleTotalCount": 9,
-        "AllBundleTotalSize": 30810267,
+        "AllBundleTotalSize": 30791625,
         "BuildinBundleTotalCount": 2,
-        "BuildinBundleTotalSize": 2126502,
+        "BuildinBundleTotalSize": 2107860,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0,
         "RawBundleTotalCount": 0,
@@ -877,12 +877,12 @@
         {
             "Address": "",
             "AssetPath": "Assets/Res/HotFix/common.bytes",
-            "AssetGUID": "fac71e9f3a124b94993d1a82fe1e8beb",
+            "AssetGUID": "bb51e89ea8cb1814c945488c5f020983",
             "AssetTags": [
                 "hotFix"
             ],
             "MainBundleName": "assets/res/hotfix/common.bundle",
-            "MainBundleSize": 2083126,
+            "MainBundleSize": 2064484,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -1094,8 +1094,8 @@
         },
         {
             "BundleName": "assets/res/prefabs.bundle",
-            "Hash": "e9a1545f5b6979b85b50307e7d56746a",
-            "CRC": "10792f18",
+            "Hash": "04df528ed13455cceff34abb5b0b83d4",
+            "CRC": "734f99fe",
             "SizeBytes": 7441,
             "Tags": [
                 "prefab"
@@ -1135,9 +1135,9 @@
         },
         {
             "BundleName": "assets/res/hotfix/common.bundle",
-            "Hash": "54252882c68cce029ad7d206003e856e",
-            "CRC": "57a3a6da",
-            "SizeBytes": 2083126,
+            "Hash": "c04ddbce3be55f9e6e461bbb80fbfc2b",
+            "CRC": "04d639f7",
+            "SizeBytes": 2064484,
             "Tags": [
                 "hotFix"
             ],
