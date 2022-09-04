@@ -2,12 +2,12 @@
     "Summary": {
         "YooVersion": "1.2.1",
         "UnityVersion": "2020.3.33f1c2",
-        "BuildDate": "2022/9/5 2:38:49",
+        "BuildDate": "2022/9/5 2:43:49",
         "BuildSeconds": 24,
         "BuildTarget": 13,
         "BuildPipeline": 0,
         "BuildMode": 0,
-        "BuildVersion": 93,
+        "BuildVersion": 94,
         "BuildinTags": "hotFix",
         "EnableAddressable": false,
         "AppendFileExtension": false,
@@ -21,7 +21,7 @@
         "AssetFileTotalCount": 83,
         "MainAssetTotalCount": 82,
         "AllBundleTotalCount": 9,
-        "AllBundleTotalSize": 30810261,
+        "AllBundleTotalSize": 30810267,
         "BuildinBundleTotalCount": 2,
         "BuildinBundleTotalSize": 2126502,
         "EncryptedBundleTotalCount": 0,
@@ -50,7 +50,7 @@
                 "prefab"
             ],
             "MainBundleName": "assets/res/prefabs.bundle",
-            "MainBundleSize": 7435,
+            "MainBundleSize": 7441,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -62,7 +62,7 @@
                 "prefab"
             ],
             "MainBundleName": "assets/res/prefabs.bundle",
-            "MainBundleSize": 7435,
+            "MainBundleSize": 7441,
             "DependBundles": [
                 "assets/res/textures/main.bundle"
             ],
@@ -78,7 +78,7 @@
                 "prefab"
             ],
             "MainBundleName": "assets/res/prefabs.bundle",
-            "MainBundleSize": 7435,
+            "MainBundleSize": 7441,
             "DependBundles": [
                 "assets/res/textures/main.bundle"
             ],
@@ -1094,9 +1094,9 @@
         },
         {
             "BundleName": "assets/res/prefabs.bundle",
-            "Hash": "8ee16f57159e9ff925a89d7296fc73c0",
-            "CRC": "5be69492",
-            "SizeBytes": 7435,
+            "Hash": "e9a1545f5b6979b85b50307e7d56746a",
+            "CRC": "10792f18",
+            "SizeBytes": 7441,
             "Tags": [
                 "prefab"
             ],
