@@ -2,12 +2,12 @@
     "Summary": {
         "YooVersion": "1.2.1",
         "UnityVersion": "2020.3.33f1c2",
-        "BuildDate": "2022/9/5 2:17:48",
-        "BuildSeconds": 22,
+        "BuildDate": "2022/9/5 2:38:49",
+        "BuildSeconds": 24,
         "BuildTarget": 13,
         "BuildPipeline": 0,
         "BuildMode": 0,
-        "BuildVersion": 92,
+        "BuildVersion": 93,
         "BuildinTags": "hotFix",
         "EnableAddressable": false,
         "AppendFileExtension": false,
@@ -21,9 +21,9 @@
         "AssetFileTotalCount": 83,
         "MainAssetTotalCount": 82,
         "AllBundleTotalCount": 9,
-        "AllBundleTotalSize": 30818754,
+        "AllBundleTotalSize": 30810261,
         "BuildinBundleTotalCount": 2,
-        "BuildinBundleTotalSize": 2134995,
+        "BuildinBundleTotalSize": 2126502,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0,
         "RawBundleTotalCount": 0,
@@ -877,12 +877,12 @@
         {
             "Address": "",
             "AssetPath": "Assets/Res/HotFix/common.bytes",
-            "AssetGUID": "1cda9d34d0a165347a29f4f210d981f0",
+            "AssetGUID": "fac71e9f3a124b94993d1a82fe1e8beb",
             "AssetTags": [
                 "hotFix"
             ],
             "MainBundleName": "assets/res/hotfix/common.bundle",
-            "MainBundleSize": 2091619,
+            "MainBundleSize": 2083126,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -1135,9 +1135,9 @@
         },
         {
             "BundleName": "assets/res/hotfix/common.bundle",
-            "Hash": "fa308cafa7326b441d8cdac77053ee0c",
-            "CRC": "7e38c003",
-            "SizeBytes": 2091619,
+            "Hash": "54252882c68cce029ad7d206003e856e",
+            "CRC": "57a3a6da",
+            "SizeBytes": 2083126,
             "Tags": [
                 "hotFix"
             ],
