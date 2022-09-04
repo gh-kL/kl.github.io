@@ -1,0 +1,1178 @@
+{
+    "Summary": {
+        "YooVersion": "1.2.1",
+        "UnityVersion": "2020.3.33f1c2",
+        "BuildDate": "2022/8/22 2:38:08",
+        "BuildSeconds": 20,
+        "BuildTarget": 19,
+        "BuildPipeline": 0,
+        "BuildMode": 0,
+        "BuildVersion": 89,
+        "BuildinTags": "hotFix",
+        "EnableAddressable": false,
+        "AppendFileExtension": false,
+        "CopyBuildinTagFiles": true,
+        "AutoCollectShaders": false,
+        "ShadersBundleName": "myshaders",
+        "EncryptionServicesClassName": "null",
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "AssetFileTotalCount": 83,
+        "MainAssetTotalCount": 82,
+        "AllBundleTotalCount": 9,
+        "AllBundleTotalSize": 30875097,
+        "BuildinBundleTotalCount": 2,
+        "BuildinBundleTotalSize": 2194179,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0,
+        "RawBundleTotalCount": 0,
+        "RawBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Config/Config.txt",
+            "AssetGUID": "0aab7c34560edfb46ad1bcb850d8d8b9",
+            "AssetTags": [
+                "config"
+            ],
+            "MainBundleName": "assets/res/config/config.bundle",
+            "MainBundleSize": 4093,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Prefabs/Emmmm.prefab",
+            "AssetGUID": "371353dcf7d581a49a1f020fa2a6cd99",
+            "AssetTags": [
+                "prefab"
+            ],
+            "MainBundleName": "assets/res/prefabs.bundle",
+            "MainBundleSize": 7435,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Prefabs/MyMarkBall.prefab",
+            "AssetGUID": "7c335ff88f3372748bba44203b36b020",
+            "AssetTags": [
+                "prefab"
+            ],
+            "MainBundleName": "assets/res/prefabs.bundle",
+            "MainBundleSize": 7435,
+            "DependBundles": [
+                "assets/res/textures/main.bundle"
+            ],
+            "DependAssets": [
+                "Assets/Res/Textures/Main/Ring.png"
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Prefabs/SoundBall.prefab",
+            "AssetGUID": "f9dbd57b842c5664d937d53967b2d163",
+            "AssetTags": [
+                "prefab"
+            ],
+            "MainBundleName": "assets/res/prefabs.bundle",
+            "MainBundleSize": 7435,
+            "DependBundles": [
+                "assets/res/textures/main.bundle"
+            ],
+            "DependAssets": [
+                "Assets/Res/Textures/Main/Circle.png"
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/UI/A_Common_atlas0.png",
+            "AssetGUID": "b58c14487c3896443a2ff77efc7dca07",
+            "AssetTags": [
+                "ui"
+            ],
+            "MainBundleName": "assets/res/ui.bundle",
+            "MainBundleSize": 19131,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/UI/A_Common_fui.bytes",
+            "AssetGUID": "1da2a136aca57ab43b1e821e0caba1d5",
+            "AssetTags": [
+                "ui"
+            ],
+            "MainBundleName": "assets/res/ui.bundle",
+            "MainBundleSize": 19131,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/UI/Main_atlas0.png",
+            "AssetGUID": "ee2bcb8f22ae3d148bf894c07008c469",
+            "AssetTags": [
+                "ui"
+            ],
+            "MainBundleName": "assets/res/ui.bundle",
+            "MainBundleSize": 19131,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/UI/Main_fui.bytes",
+            "AssetGUID": "4b52ae3ec7461a04b964c065db7d39bb",
+            "AssetTags": [
+                "ui"
+            ],
+            "MainBundleName": "assets/res/ui.bundle",
+            "MainBundleSize": 19131,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/AgitatedOcean.ogg",
+            "AssetGUID": "540fd8deca3b62143949bc9054250a94",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/Bamboo.ogg",
+            "AssetGUID": "214713bd9daa24a4c8a74dac02ababeb",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/BirdForest.ogg",
+            "AssetGUID": "e047719d6c6207f4aa05b79905d4c2dd",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/BrownNoise.ogg",
+            "AssetGUID": "806aae30774f90546a95ed90223d9ef3",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/Cafe.ogg",
+            "AssetGUID": "73c0a05ce5c73404dbf765846a357757",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/CascadeStrong.ogg",
+            "AssetGUID": "d7338bb0ebc5f114cb1d2958ff84fd71",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/Cigals.ogg",
+            "AssetGUID": "26c85572fd19fee4692bf25c307bdf64",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/ContinuousWaves.ogg",
+            "AssetGUID": "3fae4793456c7ed4ab4d6e2c8dc7e063",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/Cowbells.ogg",
+            "AssetGUID": "e65f0173a5ac3e540b9610643527e614",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/Crickets.ogg",
+            "AssetGUID": "322d4520197d31a42a2735c83721ccd7",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/Crows.ogg",
+            "AssetGUID": "ef31d2bc965665943a12a3505b42bb81",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/Crystal.ogg",
+            "AssetGUID": "8c6eec510a3347e4a8b5648bbd334695",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/DeepSpace.ogg",
+            "AssetGUID": "0b106c2c4deec8941a1920aceed44a76",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/DistantThunder.ogg",
+            "AssetGUID": "caa9603e9b1ed5649af91020864e0844",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/Dogs.ogg",
+            "AssetGUID": "dc34a00e0ccf20643ae1ade386c7fa76",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/Fan.ogg",
+            "AssetGUID": "9daa1280d103c38438018129e27efbe6",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/FireCamp.ogg",
+            "AssetGUID": "f8c9c5661bea04144a677edfb4ca05bb",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/FirePlace.ogg",
+            "AssetGUID": "dcbeafb46792b084d9d3f5e70bc24a12",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/Frogs.ogg",
+            "AssetGUID": "b60329e09df6d144e9e73b3d0abb38c7",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/Heart.ogg",
+            "AssetGUID": "25d8fda147959a24ebfd861091a56720",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/HeavyRain.ogg",
+            "AssetGUID": "c25753ca8a707804ca8e541dc4f9f193",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/Helix.ogg",
+            "AssetGUID": "2d3e03360159fb247896672540c0cef8",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/LightStream.ogg",
+            "AssetGUID": "38ad49f414e28d74e8ca6bac10d03ec2",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/MediumRain.ogg",
+            "AssetGUID": "1b452f86563c18c4697a63b9d6ad677a",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/MediumThunder.ogg",
+            "AssetGUID": "77d926aac47f5f24292ab848c443b8a8",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/Metal.ogg",
+            "AssetGUID": "f87a83cbf79da5e4bb828cd7bf14e013",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/MetalCreaking.ogg",
+            "AssetGUID": "7fdfbf8ee91972049b68521ff7dcb40a",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/MorningBirds.ogg",
+            "AssetGUID": "41f0f39292dbcdd4ebfe2d1d38d51449",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/Owl.ogg",
+            "AssetGUID": "22dac850fb1e34c4a81fb0ee4ce0910d",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/People.ogg",
+            "AssetGUID": "75d3989fb7685e4429cb92fa724ad77c",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/PinkNoise.ogg",
+            "AssetGUID": "9bbd3bea074400949ae680bea0fe0a38",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/PondLife.ogg",
+            "AssetGUID": "a2c4c05019a74184b89785597e0e492e",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/PurringCat.ogg",
+            "AssetGUID": "6ca6fdd8b7e36744f9df24063df5179b",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/RainCar.ogg",
+            "AssetGUID": "e0997a89885876347a310df978536165",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/RainOnRoof.ogg",
+            "AssetGUID": "33ac78c1bc9b93c479413240504b29d2",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/Riverside.ogg",
+            "AssetGUID": "ac60a71c04789494d85768ddf06968d1",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/SeaBreeze.ogg",
+            "AssetGUID": "071e7a6fbd04f4c45ab231d521f903af",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/Seagulls.ogg",
+            "AssetGUID": "994a5a2f752bac44aab5e01bb0b5c244",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/Steps.ogg",
+            "AssetGUID": "9144bb7e6288dda4ca64cff3551614ce",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/StrongStream.ogg",
+            "AssetGUID": "bd11aef0eaa6db94e9d24e2397f5d1b6",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/TelevisionStatic.ogg",
+            "AssetGUID": "9f50460d2063f014a9d3f09907836807",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/Traffic.ogg",
+            "AssetGUID": "8a22499167cccc94181db74b63bd3f53",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/Train.ogg",
+            "AssetGUID": "b2341a67cb812b3478ebec0739fee1e6",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/TropicalBirds.ogg",
+            "AssetGUID": "0de9c63f2bbe9614aa8aa6fb0a20aa9c",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/Turbulence.ogg",
+            "AssetGUID": "ac731105919752942963123d3ce11a0a",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/UnderWater.ogg",
+            "AssetGUID": "1a1a556755f9f1d4eb70723186a65ab8",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/Vinyl.ogg",
+            "AssetGUID": "7404aa7de58bbbd40b960d3914af5d08",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/WalkingForest.ogg",
+            "AssetGUID": "0e1d4a6f1649df34680a8eee604fd05e",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/WaterDripping.ogg",
+            "AssetGUID": "3b526f10c45cc914a867951d6260856a",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/WavesMedium.ogg",
+            "AssetGUID": "4ea42e93f1c52d54c8e98197067b75b1",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/WavesVeryLight.ogg",
+            "AssetGUID": "dbb0c5ad206c1284ea78b8625b0f2787",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/Whales.ogg",
+            "AssetGUID": "418aafdca7c7760428a99446ab849990",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/WhiteNoise.ogg",
+            "AssetGUID": "17e8a17fdfaabea46998a841e2c869a7",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/WindTrees.ogg",
+            "AssetGUID": "e26e941e33904cf45ba2439b1aec9d6e",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/WindyHarbour.ogg",
+            "AssetGUID": "a4fd8cac49d278a4ca2bb5644487c6b1",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Sounds/Main/Zephyr.ogg",
+            "AssetGUID": "af1519b3e7a78f645b959726fd35cf6a",
+            "AssetTags": [
+                "sound",
+                "Main"
+            ],
+            "MainBundleName": "assets/res/sounds/main.bundle",
+            "MainBundleSize": 25617592,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/HotFix/Boot_HotFix.unity",
+            "AssetGUID": "48b8c9ce0bfa3504daa992a6d091ba0f",
+            "AssetTags": [
+                "hotFix"
+            ],
+            "MainBundleName": "assets/res/hotfix/boot_hotfix.bundle",
+            "MainBundleSize": 111968,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/HotFix/common.bytes",
+            "AssetGUID": "46234c1d1bcc64e458c0ab3861f3c0b7",
+            "AssetTags": [
+                "hotFix"
+            ],
+            "MainBundleName": "assets/res/hotfix/common.bundle",
+            "MainBundleSize": 2082211,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Font/Main4096.asset",
+            "AssetGUID": "648f283ce550bff448865ac34acdd473",
+            "AssetTags": [
+                "font"
+            ],
+            "MainBundleName": "assets/res/font.bundle",
+            "MainBundleSize": 2991908,
+            "DependBundles": [],
+            "DependAssets": [
+                "Assets/Plugins/TextMesh Pro/Shaders/TMP_Bitmap.shader"
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Textures/Main/Circle.png",
+            "AssetGUID": "2026767cfb8a77e4fbabb4b2614fa37f",
+            "AssetTags": [
+                "textures"
+            ],
+            "MainBundleName": "assets/res/textures/main.bundle",
+            "MainBundleSize": 6246,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Textures/Main/Ring.png",
+            "AssetGUID": "5f590d61fa9196c41890466c90fd6445",
+            "AssetTags": [
+                "textures"
+            ],
+            "MainBundleName": "assets/res/textures/main.bundle",
+            "MainBundleSize": 6246,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Textures/SoundCategoryIcon/1.png",
+            "AssetGUID": "fd9aec05b0c7b094e81ee66d3e2e32e6",
+            "AssetTags": [
+                "textures"
+            ],
+            "MainBundleName": "assets/res/textures/soundcategoryicon.bundle",
+            "MainBundleSize": 34513,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Textures/SoundCategoryIcon/2.png",
+            "AssetGUID": "ca0893dc1a0ebf5499f2a3d55b7cd776",
+            "AssetTags": [
+                "textures"
+            ],
+            "MainBundleName": "assets/res/textures/soundcategoryicon.bundle",
+            "MainBundleSize": 34513,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Textures/SoundCategoryIcon/3.png",
+            "AssetGUID": "d584cf429d1bf9f469876bdc69d9cf9b",
+            "AssetTags": [
+                "textures"
+            ],
+            "MainBundleName": "assets/res/textures/soundcategoryicon.bundle",
+            "MainBundleSize": 34513,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Textures/SoundCategoryIcon/4.png",
+            "AssetGUID": "afac6a5a4995e4941ae41c283094c4ef",
+            "AssetTags": [
+                "textures"
+            ],
+            "MainBundleName": "assets/res/textures/soundcategoryicon.bundle",
+            "MainBundleSize": 34513,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Textures/SoundCategoryIcon/5.png",
+            "AssetGUID": "41a5752bb6df36d49aa45d056a7b930d",
+            "AssetTags": [
+                "textures"
+            ],
+            "MainBundleName": "assets/res/textures/soundcategoryicon.bundle",
+            "MainBundleSize": 34513,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Textures/SoundCategoryIcon/6.png",
+            "AssetGUID": "0c25541f6e97a9344957d989d695024f",
+            "AssetTags": [
+                "textures"
+            ],
+            "MainBundleName": "assets/res/textures/soundcategoryicon.bundle",
+            "MainBundleSize": 34513,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Textures/SoundCategoryIcon/7.png",
+            "AssetGUID": "2ab1cfc0aa5b65141bfbab4c605d329b",
+            "AssetTags": [
+                "textures"
+            ],
+            "MainBundleName": "assets/res/textures/soundcategoryicon.bundle",
+            "MainBundleSize": 34513,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Textures/SoundCategoryIcon/8.png",
+            "AssetGUID": "9cd6637a7dfd38c478d87cbaf85a89c1",
+            "AssetTags": [
+                "textures"
+            ],
+            "MainBundleName": "assets/res/textures/soundcategoryicon.bundle",
+            "MainBundleSize": 34513,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Textures/SoundCategoryIcon/9.png",
+            "AssetGUID": "48d7fffed0ad8904482d54a274ad5192",
+            "AssetTags": [
+                "textures"
+            ],
+            "MainBundleName": "assets/res/textures/soundcategoryicon.bundle",
+            "MainBundleSize": 34513,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Textures/SoundCategoryIcon/10.png",
+            "AssetGUID": "e5384efbbf5c2ba49af7ae6dbcfef4c2",
+            "AssetTags": [
+                "textures"
+            ],
+            "MainBundleName": "assets/res/textures/soundcategoryicon.bundle",
+            "MainBundleSize": 34513,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Textures/SoundCategoryIcon/11.png",
+            "AssetGUID": "2cb2494957c228a47bf1af31ad9d1e0d",
+            "AssetTags": [
+                "textures"
+            ],
+            "MainBundleName": "assets/res/textures/soundcategoryicon.bundle",
+            "MainBundleSize": 34513,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Textures/SoundCategoryIcon/12.png",
+            "AssetGUID": "a3d48bd525172314daa6e06dcd806887",
+            "AssetTags": [
+                "textures"
+            ],
+            "MainBundleName": "assets/res/textures/soundcategoryicon.bundle",
+            "MainBundleSize": 34513,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Textures/SoundCategoryIcon/13.png",
+            "AssetGUID": "d70aac8d486c89746bf7e2d0516952f7",
+            "AssetTags": [
+                "textures"
+            ],
+            "MainBundleName": "assets/res/textures/soundcategoryicon.bundle",
+            "MainBundleSize": 34513,
+            "DependBundles": [],
+            "DependAssets": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assets/res/config/config.bundle",
+            "Hash": "660e06451aac01859e322b484c7e0aa7",
+            "CRC": "36889870",
+            "SizeBytes": 4093,
+            "Tags": [
+                "config"
+            ],
+            "Flags": 0
+        },
+        {
+            "BundleName": "assets/res/prefabs.bundle",
+            "Hash": "076e888e905de74a80e745b2e989ee46",
+            "CRC": "e3310c50",
+            "SizeBytes": 7435,
+            "Tags": [
+                "prefab"
+            ],
+            "Flags": 0
+        },
+        {
+            "BundleName": "assets/res/ui.bundle",
+            "Hash": "801d9e02414414cceaa4557eb7125ed1",
+            "CRC": "da83b6f3",
+            "SizeBytes": 19131,
+            "Tags": [
+                "ui"
+            ],
+            "Flags": 0
+        },
+        {
+            "BundleName": "assets/res/sounds/main.bundle",
+            "Hash": "cd298067924466426e99a1ee84bfac3e",
+            "CRC": "e5c4071f",
+            "SizeBytes": 25617592,
+            "Tags": [
+                "sound",
+                "Main"
+            ],
+            "Flags": 0
+        },
+        {
+            "BundleName": "assets/res/hotfix/boot_hotfix.bundle",
+            "Hash": "59026c84822374e48d7f89722e3644cd",
+            "CRC": "68f1b9b6",
+            "SizeBytes": 111968,
+            "Tags": [
+                "hotFix"
+            ],
+            "Flags": 2
+        },
+        {
+            "BundleName": "assets/res/hotfix/common.bundle",
+            "Hash": "1742a3325b60f77b891cb74b77f84a06",
+            "CRC": "5a7770c1",
+            "SizeBytes": 2082211,
+            "Tags": [
+                "hotFix"
+            ],
+            "Flags": 2
+        },
+        {
+            "BundleName": "assets/res/font.bundle",
+            "Hash": "1777659de78b7e6db0221bf10b91b12e",
+            "CRC": "a1e04c92",
+            "SizeBytes": 2991908,
+            "Tags": [
+                "font"
+            ],
+            "Flags": 0
+        },
+        {
+            "BundleName": "assets/res/textures/main.bundle",
+            "Hash": "501f5a332f5b182eb0b3496ea194d9b8",
+            "CRC": "347a5c6a",
+            "SizeBytes": 6246,
+            "Tags": [
+                "textures",
+                "prefab"
+            ],
+            "Flags": 0
+        },
+        {
+            "BundleName": "assets/res/textures/soundcategoryicon.bundle",
+            "Hash": "13e9bca38b8611a9c5006bdf7e6d8060",
+            "CRC": "fd25caf0",
+            "SizeBytes": 34513,
+            "Tags": [
+                "textures"
+            ],
+            "Flags": 0
+        }
+    ]
+}
